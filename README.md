@@ -11,6 +11,8 @@ For testing, a machine with python>=3.6 needs to be installed as well as the fol
 pandas, numpy, scikit-learn, matplotlib
 
 # Running
+To run the notebook, simply follow the steps.
+Download and unzip the folder
 Simply run the ipython notebook. To run simply hit the run all button. To save time, it is recommended to skip the gridsearch phase in order to speed up analysis.
 
 # Addtional Info
