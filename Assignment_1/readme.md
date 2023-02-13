@@ -12,8 +12,10 @@ pandas, numpy, scikit-learn, matplotlib
 
 # Running
 To run the notebook, simply follow the steps.
+
 Download and unzip the folder
-Simply run the ipython notebook. To run simply hit the run all button. To save time, it is recommended to skip the gridsearch phase in order to speed up analysis.
+Run the ipython notebook. To run simply hit the run all button. To save time, it is recommended to skip the gridsearch phase in order to speed up analysis.
+
 
 # Addtional Info
 The datasets have been uploaded to the repo to make it easy to find. Should you need additional info, links to the dataset have been included at the top
