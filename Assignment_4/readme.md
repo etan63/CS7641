@@ -12,8 +12,8 @@ For testing, a machine with python>=3.6 needs to be installed as well as the fol
 pandas, numpy, scikit-learn, matplotlib, mdptoolbox-hiive, gym
 
 # Running
-To run the notebook, simply follow the steps.
+To run the notebook, simply follow the steps:
 
-Download and unzip the folder
-1. Replace the files as stated in the modifed code folder.
-2. Run the ipython notebook. To run simply hit the run all button.
+1. Download and unzip the folder
+2. Replace the files as stated in the modifed code folder.
+3. Run the ipython notebook. To run simply hit the run all button.
